@@ -1,0 +1,21 @@
+.form{
+    display: flex;
+    align-items: center;
+}
+#btn{
+    padding: 5px 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.moo_btn{
+    padding: 5px 10px; 
+}
+.upper_box{
+    border: 1.5px solid black; 
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+.lower_box{
+    display: flex;
+}
